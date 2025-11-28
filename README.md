@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a software developer passionate about [your interests]. I love building [types of projects] and exploring [technologies/fields].
+I'm a software developer passionate about solving challenging problems through code. I love building efficient, scalable applications and exploring innovative technologies that push the boundaries of what's possible.
 
 - 🔭 I'm currently working on **Documed. A centralized Medical data storage system**
 - 🌱 I'm currently learning **Artificial Intelligence and Machine Learning. Also taking an interest in 3D web**
